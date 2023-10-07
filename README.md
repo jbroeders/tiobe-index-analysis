@@ -21,7 +21,7 @@ The data used in this analysis is sourced from the [official TIOBE website](http
 
 ## Methodology
 
-This section will describe the statistical methods and data visualization techniques used in the analysis. (You can expand on this once you finalize your methodology.)
+This section will describe the statistical methods and data visualization techniques used in the analysis. 
 
 ## Visualizations
 
